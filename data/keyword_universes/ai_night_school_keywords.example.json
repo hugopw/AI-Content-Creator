@@ -1,0 +1,39 @@
+{
+  "generated_at": "2024-11-16T10:30:00Z",
+  "icp_name": "ai_night_school",
+  "source_website": "https://ainightschoolorg-git-chore-add-content-daniel-zarembas-projects.vercel.app/",
+  "keywords": [
+    {
+      "phrase": "how to start with ai in my business",
+      "category": "getting_started",
+      "search_intent": "informational"
+    },
+    {
+      "phrase": "ai roi calculator for small business",
+      "category": "business_value",
+      "search_intent": "commercial"
+    },
+    {
+      "phrase": "getting team to use ai tools",
+      "category": "team_adoption",
+      "search_intent": "informational"
+    },
+    {
+      "phrase": "practical ai implementation guide",
+      "category": "practical_implementation",
+      "search_intent": "informational"
+    },
+    {
+      "phrase": "what ai tools should i use first",
+      "category": "getting_started",
+      "search_intent": "commercial"
+    }
+  ],
+  "total_keywords": 5,
+  "categories": [
+    "getting_started",
+    "business_value",
+    "team_adoption",
+    "practical_implementation"
+  ]
+}

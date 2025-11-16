@@ -1,0 +1,59 @@
+{
+  "name": "ai_night_school",
+  "audience": "Business leaders and executives",
+  "characteristics": {
+    "mindset": "Overwhelmed by AI hype but know they need to act",
+    "time": "Time-poor (can't do lengthy courses)",
+    "needs": "Practical implementation guidance, not theory",
+    "focus": "ROI and business value"
+  },
+  "demographics": {
+    "age_range": "35-55",
+    "job_titles": [
+      "CEO",
+      "CTO",
+      "COO",
+      "VP Product",
+      "Head of Operations",
+      "Managing Director",
+      "General Manager"
+    ],
+    "company_size": "50-5000 employees",
+    "industries": [
+      "Professional services",
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Manufacturing"
+    ]
+  },
+  "pain_points": [
+    "Where do I start with AI?",
+    "How do I get my team on board?",
+    "What's the actual ROI?",
+    "How do I avoid wasting money on AI vendors?",
+    "What should I do first?",
+    "How do I know if an AI use case is worth pursuing?",
+    "What are the risks I should be aware of?"
+  ],
+  "reading_habits": [
+    "Harvard Business Review",
+    "TechCrunch",
+    "Business Insider",
+    "MIT Technology Review",
+    "The Economist (tech section)",
+    "LinkedIn (thought leaders)",
+    "Industry-specific publications",
+    "Morning Brew",
+    "The Information"
+  ],
+  "search_behaviour": [
+    "How to implement AI in [industry]",
+    "AI ROI calculator",
+    "AI adoption strategy",
+    "Best AI tools for [function]",
+    "AI implementation checklist",
+    "AI risks for business",
+    "How to train team on AI"
+  ]
+}

@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Generated data (don't commit actual outputs, keep examples only)
+data/keyword_universes/*.json
+!data/keyword_universes/*.example.json
+data/feed_lists/*.json
+!data/feed_lists/*.example.json
+
+# Content (don't commit actual generated content)
+content/pending/*.md
+content/approved/*.md
+content/rejected/*.md
